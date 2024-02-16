@@ -1,0 +1,73 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    color: white;
+}
+
+/* .navbar {
+    display: flex;
+  
+} */
+
+.logo {
+    height: 10px;
+    width: 10px;
+
+
+}
+
+.para {
+    margin-top: 40px;
+    padding-left: 20%;
+    font-size: 20px;
+
+}
+
+.class>a {
+    /* display: flex; */
+    /* justify-content: end;
+    gap: 10px;
+    padding-right: 40px;*/
+    text-transform: capitalize;
+    text-decoration: none;
+}
+
+.class {
+    display: flex;
+    justify-content: end;
+    gap: 15px;
+    padding-right: 50px;
+    padding-bottom: 130px;
+}
+
+.take {
+    display: flex;
+    justify-content: center;
+    font-weight: 800;
+    font-size: 50px;
+    padding-right: 70px;
+    line-height: 44px;
+}
+
+.para2 {
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+}
+.one{
+    padding-left: 37%;
+}
+
+.windows {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5rem;
+    width: 20rem;
+    color: black;
+    background-color: white;
+text-transform: capitalize;
+font-size: x-large;
+
+}
