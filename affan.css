@@ -67,17 +67,18 @@
     width: 20rem;
     color: black;
     background-color: white;
-text-transform: capitalize;
-font-size: x-large;
+    text-transform: capitalize;
+    font-size: x-large;
 
 }
 }
 .type{
     display: flex;
     justify-content: center;
-    padding-top: 5%;
     padding-left: 40%;
+    padding-top: 5%;
 }
+  
 .type1{
     display: flex;
     justify-content: center;
